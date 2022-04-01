@@ -3,7 +3,7 @@
 <center>
 
   
-YouTube Video : <a href="https://www.youtube.com/watch?v=JxsJxuNIcMk" target="_blank"><img alt="Ezatpanah ViewBinding-YouTube" src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png" width="100%"></a>
+YouTube Video : <a href="https://www.youtube.com/watch?v=JxsJxuNIcMk" target="_blank"><img alt="Ezatpanah ViewBinding-YouTube" src="https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png" width="10%"></a>
  <br>  
 <br>  
 
